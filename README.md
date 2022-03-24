@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoaFAAA
-- 👀 I’m interested in C/JAVA
-- 🌱 I’m currently learning C/JAVA/MYSQL
+- 👀 I’m interested in C#/JAVA/PYTHON
+- 🌱 I’m currently learning PerformanceTesting/AutomatedTesting/JavaProject
 
 
 <!---
